@@ -1,21 +1,25 @@
-# Hey, I'm Adithya 👋
+# Hi, I’m **Adithya Framilton**
 
-Welcome to my digital home.
-
-- 🧠 Arch Linux Power User
-- ⚙️ Building reproducible systems with dotfiles + shell scripts
-- 🧑‍💻 Currently working through [CS50](https://cs50.harvard.edu)
-- 🎥 Content creator using OBS, KDE, and VAAPI
-- 🌐 Learning in public, documenting my journey
+This is my clean and minimal digital space — no fluff, just focused work.
 
 ---
 
-## 🚧 Projects
+## 🛠️ What I’m Building
 
-- [`dotfile`](https://github.com/ashwalkerexe/dotfile) – My system config + bootstrap script
-- [`cs50-python`](#) – Course work and projects
-- [`obs-tools`](#) – Creator automation scripts
+- ⚙️ **Arch Linux Power Rig** – KDE, dotfiles, full bootstrap automation.
+- 🎥 **Content Creation Stack** – OBS + GPU encoding + system automation.
+- 🧠 **CS50 Journey** – Harvard’s CS50 in Python, building core comp-sci logic.
+- 🌐 **GitHub Knowledge Base** – Everything I learn, build, or fix, stored in public.
 
 ---
 
-Built with 💻 Arch, GitHub Pages, and Markdown.
+## 📁 Repos
+
+- [`dotfile`](https://github.com/ashwalkerexe/dotfile): Full Arch + KDE setup
+- [`cs50-python`](#): Code + notes from CS50 2025
+- [`obs-tools`](#): Scripts for creators, automation, file renaming
+
+---
+
+Want to collaborate or learn with me?  
+Reach out on [GitHub](https://github.com/ashwalkerexe) or follow my [learning log](blog/index.md).

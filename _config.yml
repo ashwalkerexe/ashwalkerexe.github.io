@@ -1,7 +1,11 @@
-title: "Adithya Ashwin"
-description: "Learning in public. Linux. CS50. OBS. Dotfiles."
-baseurl: "" # Do not change
+title: "Adithya Framilton"
+description: "Minimal, focused documentation of my learning, building, and creating."
+baseurl: ""
 url: "https://ashwalkerexe.github.io"
 theme: jekyll-theme-minimal
-include:
-  - head.html
+
+author: Adithya Framilton
+
+# Optional: Clean nav bar links
+logo: /assets/profile.png
+show_downloads: false
